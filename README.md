@@ -1,4 +1,4 @@
-# Hi, I’m Rusłan Karaniewski. Did you know that you have brouser? The WWW says you do. And so do I. I believe that until proven guilty, every man, woman, and child in this world is deserve to use it. And that’s why I fight for you, internet guys! Better call Rusłan! 
+# Hi, I’m Rusłan Karaniewski. Did you know that you have brouser? The WWW says you do. And so do I. I believe that until internet exist, every man, woman, and child in this world is deserve to use it. And that’s why I fight for you, internet guys! Better call Rusłan! 
 
 <!--
 **Karanelus/karanelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
