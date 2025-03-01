@@ -3,7 +3,7 @@
 If you need a confident, patient and ready for new programmer, you got a rigth place.
 Here you can see all of my projects what i make personally and where am i learned new staff and technologies.
 
-Also i'm volunteering as frontend developer at (FOUNDATION FOR HELPING LEUKEMIA PATIENTS)[https://fundacja.hematologiczna.org/]
+Also i'm volunteering as frontend developer at [FOUNDATION FOR HELPING LEUKEMIA PATIENTS](https://fundacja.hematologiczna.org/) for creating a [Gala page](https://gala.fundacja.hematologiczna.org/)
 <!--
 **Karanelus/karanelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
